@@ -17,7 +17,7 @@ label.setAttribute(Qt.WA_TranslucentBackground)
 
 main_dir = "./assets/"
 current_dir = 8  # default arah: bawah
-speed = 5  # pixel per frame
+speed = 2  # pixel per frame
 stop_threshold = 6  # jarak di bawah ini dianggap "diam"
 pause_when_idle = True  # jika True, hentikan animasi ketika diam
 
